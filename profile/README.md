@@ -1,4 +1,4 @@
-<img src="https://github.com/Discord-Bot-Maker-by-ifanoxy/.github/assets/logo.png" />
+[<img src="https://github.com/Discord-Bot-Maker-by-ifanoxy/.github/assets/logo.png" />](https://github.com/Discord-Bot-Maker-by-ifanoxy/.github/blob/main/assets/logo.png)
 
 Welcome to **Discord Bot Creator**! An intuitive web application to create custom Discord bots, configure modules, and download the source code in a snap. 🚀
 
