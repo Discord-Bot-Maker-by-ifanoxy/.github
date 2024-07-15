@@ -2,8 +2,6 @@
 
 Welcome to **Discord Bot Creator**! An intuitive web application to create custom Discord bots, configure modules, and download the source code in a snap. 🚀
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/127dfb02-6ed9-4061-ab19-0fc33699a5e2/deploy-status)](https://app.netlify.com/sites/phenomenal-biscuit-8c84fd/deploys)
-
 ## 🖥️ Technologies Used
 
 - **Frontend**: Vue.js 🖌️
