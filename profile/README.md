@@ -1,6 +1,6 @@
 <img src="../assets/logo-DBM.png" />
 
-Welcome to **Discord Bot Creator**! An intuitive web application to create custom Discord bots, configure modules, and download the source code in a snap. 🚀
+Welcome to **Discord Bot Maker**! An intuitive web application to create custom Discord bots, configure modules, and download the source code in a snap. 🚀
 
 ## 🖥️ Technologies Used
 
@@ -41,4 +41,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Thank you for using **Discord Bot Creator**! 🎉
+Thank you for using **Discord Bot Maker**! 🎉
